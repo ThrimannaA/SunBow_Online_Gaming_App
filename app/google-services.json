@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426430025106",
+    "project_id": "online-gaming-app-16a08",
+    "storage_bucket": "online-gaming-app-16a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426430025106:android:a2bacf454dec3886e2454b",
+        "android_client_info": {
+          "package_name": "com.example.onlinegamingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vRFMNADUdU1bXLdjeadv5YDjCz8nsQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

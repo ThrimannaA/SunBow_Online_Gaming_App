@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Online gaming app</string>
+    <string name="appName">SunBow Gaming</string>
+    <string name="appBegin">Game not Started</string>
+    <string name="playOffline">Play Offline</string>
+    <string name="createOnline">Create Game Online</string>
+    <string name="StartGame">Start Game</string>
+    <string name="enjoy">Enjoy With Your Splendid Game</string>
+    <string name="move">More ></string>
+    <string name="load">LOAD</string>
+    <string name="save">SAVE</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+</resources>
